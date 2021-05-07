@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_margin="40dp"
+        android:id="@+id/phone"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:hint="Mobile Number"
+        />
+
+    <EditText
+        android:id="@+id/msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:layout_marginTop="10dp"
+        android:hint="Message" />
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/intent"
+        android:text="Text Message Appointment"
+        android:layout_margin="40dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/whatsapp"
+        android:text="Whatsapp Message Appointment"
+        android:layout_margin="40dp"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

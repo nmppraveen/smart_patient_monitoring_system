@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37618505486",
+    "project_id": "smartpatientmonitoring",
+    "storage_bucket": "smartpatientmonitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37618505486:android:246a36c8ed92914860295f",
+        "android_client_info": {
+          "package_name": "com.praveen.smartpatientmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37618505486-up254pv0ugkms90vin0elnh9db6nh5ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUfzHPhmTLl60C_aEd4PBlO2396xYjnLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37618505486-up254pv0ugkms90vin0elnh9db6nh5ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
